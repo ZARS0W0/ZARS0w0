@@ -102,12 +102,5 @@
   I'm always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don't hesitate to reach out!
 </p>
 
----
-
-<h2 align="center">🌟 Beyond the Code</h2>
-
-<p align="center">
-  When I'm not immersed in lines of code, you'll find me exploring the world, capturing moments through photography, or diving into a captivating book. I believe that continuous learning and diverse experiences fuel creativity, both in and out of development.
-</p>
 
 
