@@ -110,9 +110,4 @@
   When I'm not immersed in lines of code, you'll find me exploring the world, capturing moments through photography, or diving into a captivating book. I believe that continuous learning and diverse experiences fuel creativity, both in and out of development.
 </p>
 
----
-
-<p align="center">
-  <i>Crafted with passion by ZARS0W0 and enhanced by Manus AI.</i>
-</p>
 
