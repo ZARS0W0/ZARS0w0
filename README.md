@@ -50,7 +50,7 @@
 <h2 align="center">📚 What I'm Currently Exploring & Building</h2>
 
 <p align="center">
-  My curiosity drives me to constantly learn and innovate. Currently, I'm delving into **advanced architectural patterns** for building highly scalable and resilient web applications. I'm also sharpening my skills in **performance optimization** for C++ applications, ensuring every line of code runs efficiently. Beyond that, I actively contribute to **open-source projects** and craft **personal tools** to streamline development workflows, always pushing the boundaries of what's possible.
+  Kernel Manipulation
 </p>
 
 ---
