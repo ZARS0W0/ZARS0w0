@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello World! I'm ZARS0W0 🚀</h1>
 
 <p align="center">
-  A passionate and driven developer from 🇧🇪 Belgium, I thrive on transforming innovative ideas into tangible, high-quality code. My journey in software development is a continuous adventure, spanning from the intricate logic of backend systems to the captivating aesthetics of frontend experiences. I'm constantly seeking new challenges, optimizing solutions, and expanding my expertise across the technological landscape.
-</p>
+  A passionate and driven developer from 🇧🇪 Belgium.</p>
 
 ---
 
