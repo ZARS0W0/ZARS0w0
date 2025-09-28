@@ -1,44 +1,62 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">👋 Hello World! I'm ZARS0W0 🚀</h1>
 
 <p align="center">
-  I'm <strong>ZARS0W0</strong>, a passionate developer from Belgium who loves bringing ideas to life through code. My journey in programming spans across various domains, from crafting robust backend systems to building engaging frontend experiences. I thrive on solving complex problems and continuously expanding my skill set.
+  A passionate and driven developer from 🇧🇪 Belgium, I thrive on transforming innovative ideas into tangible, high-quality code. My journey in software development is a continuous adventure, spanning from the intricate logic of backend systems to the captivating aesthetics of frontend experiences. I'm constantly seeking new challenges, optimizing solutions, and expanding my expertise across the technological landscape.
 </p>
 
 ---
 
-<h2 align="center">🚀 My Tech Stack</h2>
+<h2 align="center">🛠️ My Core Toolkit & Expertise</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo"  />
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
+  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo"  />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo"  />
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React">
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer" title="SQLite">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
+  </a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MariaDB/MySQL logo" />
+  <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer" title="MariaDB/MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MariaDB/MySQL logo" />
+  </a>
 </div>
 
 ---
 
-<h2 align="center">🌱 Currently Learning & Working On</h2>
+<h2 align="center">📚 What I'm Currently Exploring & Building</h2>
 
 <p align="center">
-  I'm always eager to learn and grow! Currently, I'm diving deeper into advanced architectural patterns for scalable web applications and exploring the nuances of performance optimization in C++. I'm also actively contributing to open-source projects and building personal tools to streamline development workflows.
+  My curiosity drives me to constantly learn and innovate. Currently, I'm delving into **advanced architectural patterns** for building highly scalable and resilient web applications. I'm also sharpening my skills in **performance optimization** for C++ applications, ensuring every line of code runs efficiently. Beyond that, I actively contribute to **open-source projects** and craft **personal tools** to streamline development workflows, always pushing the boundaries of what's possible.
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📈 My GitHub Journey</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ZARS0W0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak"  />
@@ -47,7 +65,11 @@
 
 ---
 
-<h2 align="center">👾 Pac-Man Contribution Graph</h2>
+<h2 align="center">🎮 Gamified Contributions: Pac-Man Style!</h2>
+
+<p align="center">
+  Witness my coding activity come to life with this unique Pac-Man contribution graph! It's a fun and dynamic way to visualize my dedication to development.
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/pacman-contribution-graph-dark.svg">
@@ -57,35 +79,41 @@
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" title="LinkedIn (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn (Update this link!)">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" title="Twitter (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
+  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer" title="Follow on Twitter (Update this link!)">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="https://discordapp.com/users/your-discord-id" title="Discord (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo"  />
+  <a href="https://discordapp.com/users/your-discord-id" target="_blank" rel="noopener noreferrer" title="Chat on Discord (Update this link!)">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
-  <a href="https://www.twitch.tv/your-twitch-channel" title="Twitch (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo"  />
+  <a href="https://www.twitch.tv/your-twitch-channel" target="_blank" rel="noopener noreferrer" title="Watch me on Twitch (Update this link!)">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo" />
   </a>
-  <a href="https://dev.to/your-devto-username" title="dev.to (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo"  />
+  <a href="https://dev.to/your-devto-username" target="_blank" rel="noopener noreferrer" title="Read my articles on dev.to (Update this link!)">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
   </a>
 </div>
 
 <p align="center">
-  Feel free to reach out if you have any questions or just want to connect! I'm always open to collaborating on interesting projects or discussing new technologies.
+  I'm always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don't hesitate to reach out!
 </p>
 
 ---
 
-<h2 align="center">✨ Fun Fact</h2>
+<h2 align="center">🌟 Beyond the Code</h2>
 
 <p align="center">
-  When I'm not coding, you can find me exploring new places or diving into a good book. I believe continuous learning extends beyond the screen!
+  When I'm not immersed in lines of code, you'll find me exploring the world, capturing moments through photography, or diving into a captivating book. I believe that continuous learning and diverse experiences fuel creativity, both in and out of development.
+</p>
+
+---
+
+<p align="center">
+  <i>Crafted with passion by ZARS0W0 and enhanced by Manus AI.</i>
 </p>
 
