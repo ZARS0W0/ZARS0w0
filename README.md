@@ -50,7 +50,7 @@
 <h2 align="center">📚 What I'm Currently Exploring & Building</h2>
 
 <p align="center">
-  Kernel Manipulation
+  [Zars.pro](https://zars.pro/)
 </p>
 
 ---
