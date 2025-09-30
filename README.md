@@ -67,7 +67,7 @@
 <h2 align="center">🎮 Gamified Contributions: Pac-Man Style!</h2>
 
 <p align="center">
-  Witness my coding activity come to life with this unique Pac-Man contribution graph! It's a fun and dynamic way to visualize my dedication to development.
+  Witness my coding activity come to life with this unique Pac-Man contribution graph! It's dynamic way to visualize my dedication to development.
 </p>
 
 <picture>
