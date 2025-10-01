@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kNDkwNm40Z3k2c3V0ZjFmYXY0dWYzc3djancybmV5bDZpN3VtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5MSivCJcmHEQ/giphy.gif" width="700" alt="Glitch Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFpN2Fsczlyc2ZvY2Iwb2hnMWRpN2w3cjZ2bjh6aXF6YXJnMzhoYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oo6B3CLXtqFck/giphy.gif" width="700" alt="Glitch Banner" />
 </p>
 
 
