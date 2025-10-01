@@ -35,12 +35,12 @@
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://github.com/ZARS0W0/ZARS0W0/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 <!-- Pac-Man Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/github-contribution-grid-snake.svg" alt="Pac-Man Graph" />
+  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/pacman-contribution-graph.svg" alt="Pac-Man Graph" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 <h2 align="center">🌆 3D Skyline of Code</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ZARS0W0&theme=react-dark&area=true&hide_border=true" alt="3D Skyline Contributions" width="800" />
+  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/master/profile-night-green.svg" alt="3D Skyline Contributions" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 <h2 align="center">🎶 Now Playing</h2>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id" alt="Spotify Now Playing" width="400" />
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 <h2 align="center">😂 Daily Meme Generator</h2>
 
 <p align="center">
-  <img src="https://api.memegen.link/images/fry/shut_up_and_take/my_code.png" width="400" alt="Random Meme"/>
+  <img src="https://random-memer.herokuapp.com/" width="400" alt="Random Meme"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.quotable.io/random" alt="Random Quote" width="400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Quote"/>
 </p>
 
 ---
@@ -95,28 +95,26 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <!-- Replace with your actual social media links -->
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/yourdiscord">
+  <a href="https://discordapp.com/users/your-discord">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitch.tv/your-twitch">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">👀 Visitor Counter</h2>
+<h2 align="center">👀 Visitor Map</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZARS0W0&color=blueviolet&style=flat-square" alt="Visitor Counter" />
-</p>
-
-<p align="center"> 
-  <img src="https://count.getloli.com/get/@ZARS0W0?theme=gelbooru" alt="Visitor Counter" />
+  <img src="https://profile-counter.glitch.me/ZARS0W0/count.svg" alt="Visitor Counter" />
 </p>
 
 <p align="center">⚡ This README updates itself daily ⚡</p>
