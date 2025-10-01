@@ -53,7 +53,7 @@
 
 <h2 align="center">💻 Terminal Loading Skills</h2>
 
-```bash
+
 > Initializing developer.exe ...
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Loaded
 > Python | C++ | React | SQL | Tailwind | PHP
@@ -63,4 +63,4 @@
 <h2 align="center">✨ Random Vibes</h2> <p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Joke" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Quote"/> </p>
 <h2 align="center">🌐 Let’s Connect</h2> <p align="center"> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://discordapp.com/users/your-discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://twitch.tv/your-twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a> </p>
 <h2 align="center">👀 Visitor Map</h2> <p align="center"> <img src="https://profile-counter.glitch.me/ZARS0W0/count.svg" alt="Visitor Counter" /> </p>
-<p align="center">⚡ This README updates itself daily ⚡</p> ```
+<p align="center">⚡ This README updates itself daily ⚡</p> 
