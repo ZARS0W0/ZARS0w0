@@ -1,7 +1,7 @@
 name: Generate profile visuals
 on:
   schedule:
-    - cron: '0 0 * * *'   # daily at 00:00 UTC (change if you prefer)
+    - cron: '0 0 * * *'   # daily at 00:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -11,12 +11,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo (with write)
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           persist-credentials: true
 
-      - name: Generate Snake (SVG only)
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -29,40 +29,24 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Generate 3D Skyline (profile 3d contributions)
+      - name: Generate 3D Skyline
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Collect generated files into output/
+      - name: Collect into output/
         run: |
-          set -e
           mkdir -p output
+          mv -f dist/* output/ || true
+          mv -f profile-3d-contrib/* output/ || true
+          mv -f pacman*contribution*svg output/ || true
+          ls -la output
 
-          # move standard 'dist' outputs (Platane snk and others)
-          if [ -d dist ]; then
-            mv -f dist/* output/ || true
-          fi
-
-          # the 3D action tends to create profile-3d-contrib/* files
-          if [ -d profile-3d-contrib ]; then
-            mv -f profile-3d-contrib/* output/ || true
-          fi
-
-          # move any remaining likely filenames (safe guards)
-          for f in github-contribution-grid-snake*.svg pacman*contribution*svg profile-*; do
-            [ -f "$f" ] && mv -f "$f" output/ || true
-          done
-
-          ls -la output || true
-
-      - name: Commit & push generated assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output || true
-          git commit -m "chore(readme): update generated visuals" || echo "No changes to commit"
-          git push || echo "Push failed (maybe no changes)"
+          git add output
+          git commit -m "update visuals" || echo "no changes"
+          git push
