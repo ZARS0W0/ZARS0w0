@@ -53,14 +53,66 @@
 
 <h2 align="center">💻 Terminal Loading Skills</h2>
 
-
+<pre align="center">
 > Initializing developer.exe ...
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Loaded
 > Python | C++ | React | SQL | Tailwind | PHP
 > Systems Online... Welcome ZARS0W0 ⚡
-<h2 align="center">🎶 Now Playing</h2> <p align="center"> <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" /> </p>
-<h2 align="center">😂 Daily Meme Generator</h2> <p align="center"> <img src="https://api.memegen.link/images/fry/shut_up_and_take/my_code.png" width="400" alt="Random Meme"/> </p>
-<h2 align="center">✨ Random Vibes</h2> <p align="center"> <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Joke" /> </p> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Quote"/> </p>
-<h2 align="center">🌐 Let’s Connect</h2> <p align="center"> <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://discordapp.com/users/your-discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://twitch.tv/your-twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a> </p>
-<h2 align="center">👀 Visitor Map</h2> <p align="center"> <img src="https://profile-counter.glitch.me/ZARS0W0/count.svg" alt="Visitor Counter" /> </p>
-<p align="center">⚡ This README updates itself daily ⚡</p> 
+</pre>
+
+---
+
+<h2 align="center">🎶 Now Playing</h2>
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" width="400" />
+</p>
+
+---
+
+<h2 align="center">😂 Daily Meme Generator</h2>
+
+<p align="center">
+  <img src="https://api.memegen.link/images/fry/shut_up_and_take/my_code.png" width="400" alt="Random Meme"/>
+</p>
+
+---
+
+<h2 align="center">✨ Random Vibes</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Joke" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="Random Quote"/>
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/your-discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://twitch.tv/your-twitch">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">👀 Visitor Map</h2>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ZARS0W0/count.svg" alt="Visitor Counter" />
+</p>
+
+<p align="center">⚡ This README updates itself daily ⚡</p>
