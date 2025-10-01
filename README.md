@@ -75,7 +75,7 @@
 <h2 align="center">😂 Daily Meme Generator</h2>
 
 <p align="center">
-  <img src="https://random-memer.herokuapp.com/" width="400" alt="Random Meme"/>
+  <img src="https://api.memegen.link/images/fry/shut_up_and_take/my_code.png" width="400" alt="Random Meme"/>
 </p>
 
 ---
@@ -114,7 +114,11 @@
 <h2 align="center">👀 Visitor Map</h2>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ZARS0W0/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=ZARS0W0&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+</p>
+
+<p align="center"> 
+  <img src="https://count.getloli.com/get/@ZARS0W0?theme=gelbooru" alt="Visitor Counter" />
 </p>
 
 <p align="center">⚡ This README updates itself daily ⚡</p>
