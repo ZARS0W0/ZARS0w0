@@ -6,60 +6,20 @@
   A passionate and driven developer from 🇧🇪 Belgium.
 </p>
 
-
-
-
 <h2 align="center">🛠️ My Core Toolkit & Expertise</h2>
 
-<div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer" title="Python">
-    <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo" />
-  </a>
-  <img width="12" />
-  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer" title="C++">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo" />
-  </a>
-  <img width="12" />
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noopener noreferrer" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
-  </a>
-  <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer" title="PHP">
-    <img src="https://skillicons.dev/icons?i=php" height="60" alt="PHP logo" />
-  </a>
-  <img width="12" />
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React">
-    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer" title="SQLite">
-    <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="SQLite logo" />
-  </a>
-  <img width="12" />
-  <a href="https://mariadb.org/" target="_blank" rel="noopener noreferrer" title="MariaDB/MySQL">
-    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MariaDB/MySQL logo" />
-  </a>
-</div>
+<!-- Animated Toolkit Icons with Hover Effects -->
+<img src="data:image/svg+xml,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22100%22%3E%0A%20%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%0A%20%20%20%20%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22display%3A%20flex%3B%20justify-content%3A%20center%3B%20align-items%3A%20center%3B%20gap%3A%2012px%3B%20flex-wrap%3A%20wrap%3B%22%3E%0A%20%20%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20%20%20.toolkit-icon%20%7B%0A%20%20%20%20%20%20%20%20%20%20transition%3A%20transform%200.3s%20ease%2C%20filter%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20%20%20border-radius%3A%208px%3B%0A%20%20%20%20%20%20%20%20%20%20padding%3A%204px%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.toolkit-icon%3Ahover%20%7B%0A%20%20%20%20%20%20%20%20%20%20transform%3A%20scale%281.2%29%20rotate%285deg%29%3B%0A%20%20%20%20%20%20%20%20%20%20filter%3A%20drop-shadow%280%204px%208px%20rgba%28247%2C%200%2C%200%2C%200.5%29%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%3C%2Fstyle%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.python.org%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Python%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dpy%22%20height%3D%2260%22%20alt%3D%22Python%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fisocpp.org%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22C%2B%2B%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fdevicons%2Fdevicon%2Ficons%2Fcplusplus%2Fcplusplus-original.svg%22%20height%3D%2260%22%20alt%3D%22C%2B%2B%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fhtml.spec.whatwg.org%2Fmultipage%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22HTML5%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dhtml%22%20height%3D%2260%22%20alt%3D%22HTML5%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.w3.org%2FStyle%2FCSS%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22CSS3%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dcss%22%20height%3D%2260%22%20alt%3D%22CSS3%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Ftailwindcss.com%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Tailwind%20CSS%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dtailwind%22%20height%3D%2260%22%20alt%3D%22Tailwind%20CSS%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.php.net%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22PHP%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dphp%22%20height%3D%2260%22%20alt%3D%22PHP%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Freact.dev%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22React%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dreact%22%20height%3D%2260%22%20alt%3D%22React%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.sqlite.org%2Findex.html%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22SQLite%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dsqlite%22%20height%3D%2260%22%20alt%3D%22SQLite%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fmariadb.org%2F%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22MariaDB%2FMySQL%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fskillicons.dev%2Ficons%3Fi%3Dmysql%22%20height%3D%2260%22%20alt%3D%22MariaDB%2FMySQL%20logo%22%20class%3D%22toolkit-icon%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2FforeignObject%3E%0A%3C%2Fsvg%3E%0A" alt="Toolkit Icons" />
 
+<h3 align="center">My Skill Levels (Animated!)</h3>
 
+<img src="data:image/svg+xml,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22200%22%3E%0A%20%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%0A%20%20%20%20%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22max-width%3A%20800px%3B%20margin%3A%200%20auto%3B%20padding%3A%2020px%3B%22%3E%0A%20%20%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20%20%20.skill-bar%20%7B%0A%20%20%20%20%20%20%20%20%20%20background-color%3A%20%23333%3B%0A%20%20%20%20%20%20%20%20%20%20border-radius%3A%2010px%3B%0A%20%20%20%20%20%20%20%20%20%20height%3A%2020px%3B%0A%20%20%20%20%20%20%20%20%20%20margin%3A%2010px%200%3B%0A%20%20%20%20%20%20%20%20%20%20overflow%3A%20hidden%3B%0A%20%20%20%20%20%20%20%20%20%20position%3A%20relative%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.skill-fill%20%7B%0A%20%20%20%20%20%20%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20%20%20%20%20%20%20background%3A%20linear-gradient%2890deg%2C%20%23F70000%2C%20%23FF6B6B%29%3B%0A%20%20%20%20%20%20%20%20%20%20border-radius%3A%2010px%3B%0A%20%20%20%20%20%20%20%20%20%20animation%3A%20fillBar%202s%20ease-in-out%3B%0A%20%20%20%20%20%20%20%20%20%20transition%3A%20width%200.5s%20ease%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%40keyframes%20fillBar%20%7B%0A%20%20%20%20%20%20%20%20%20%20from%20%7B%20width%3A%200%3B%20%7D%0A%20%20%20%20%20%20%20%20%20%20to%20%7B%20width%3A%20var%28--width%29%3B%20%7D%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.skill-label%20%7B%0A%20%20%20%20%20%20%20%20%20%20font-family%3A%20Arial%2C%20sans-serif%3B%0A%20%20%20%20%20%20%20%20%20%20font-size%3A%2014px%3B%0A%20%20%20%20%20%20%20%20%20%20margin-bottom%3A%205px%3B%0A%20%20%20%20%20%20%20%20%20%20color%3A%20%23fff%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%3C%2Fstyle%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3EPython%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2090%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3EC%2B%2B%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2085%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3EHTML%2FCSS%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2080%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3ETailwind%20CSS%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2075%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3EPHP%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2070%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3EReact%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2065%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-label%22%3ESQLite%2FMySQL%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-bar%22%3E%0A%20%20%20%20%20%20%20%20%3Cdiv%20class%3D%22skill-fill%22%20style%3D%22--width%3A%2060%25%3B%22%3E%3C%2Fdiv%3E%0A%20%20%20%20%20%20%3C%2Fdiv%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2FforeignObject%3E%0A%3C%2Fsvg%3E%0A" alt="Skill Bars" />
 
-
-<h2 align="center">📚 What I\'m Currently Exploring & Building</h2>
+<h2 align="center">📚 What I'm Currently Exploring & Building</h2>
 
 <p align="center">
   Check out my personal website: <a href="https://zars.pro/">zars.pro</a>
 </p>
-
-
-
 
 <h2 align="center">📈 My GitHub Journey</h2>
 
@@ -68,13 +28,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=ZARS0W0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies"  />
 </div>
 
-
-
-
 <h2 align="center">🎮 Gamified Contributions: Pac-Man Style!</h2>
 
 <p align="center">
-  Witness my coding activity come to life with this unique Pac-Man contribution graph! It\'s a dynamic way to visualize my dedication to development.
+  Witness my coding activity come to life with this unique Pac-Man contribution graph! It's a dynamic way to visualize my dedication to development.
 </p>
 
 <picture>
@@ -83,45 +40,17 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/pacman-contribution-graph.svg">
 </picture>
 
+<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
 
-
-
-<h2 align="center">🌐 Let\'s Connect & Collaborate!</h2>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer" title="Follow on Twitter (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-  </a>
-  <a href="https://discordapp.com/users/your-discord-id" target="_blank" rel="noopener noreferrer" title="Chat on Discord (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
-  </a>
-  <a href="https://www.twitch.tv/your-twitch-channel" target="_blank" rel="noopener noreferrer" title="Watch me on Twitch (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch logo" />
-  </a>
-  <a href="https://dev.to/your-devto-username" target="_blank" rel="noopener noreferrer" title="Read my articles on dev.to (Update this link!)">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to logo" />
-  </a>
-</div>
+<img src="data:image/svg+xml,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%2250%22%3E%0A%20%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%0A%20%20%20%20%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22display%3A%20flex%3B%20justify-content%3A%20center%3B%20align-items%3A%20center%3B%20gap%3A%2010px%3B%20flex-wrap%3A%20wrap%3B%22%3E%0A%20%20%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20%20%20.connect-badge%20%7B%0A%20%20%20%20%20%20%20%20%20%20transition%3A%20transform%200.3s%20ease%2C%20box-shadow%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20%20%20border-radius%3A%2020px%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.connect-badge%3Ahover%20%7B%0A%20%20%20%20%20%20%20%20%20%20transform%3A%20translateY%28-5px%29%20scale%281.05%29%3B%0A%20%20%20%20%20%20%20%20%20%20box-shadow%3A%200%208px%2016px%20rgba%280%2C%200%2C%200%2C%200.3%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%3C%2Fstyle%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyour-linkedin-profile%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Connect%20on%20LinkedIn%20%28Update%20this%20link%21%29%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DLinkedIn%26logo%3Dlinkedin%26label%3D%26color%3D0077B5%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge%22%20height%3D%2225%22%20alt%3D%22LinkedIn%20logo%22%20class%3D%22connect-badge%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Ftwitter.com%2Fyour-twitter-handle%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Follow%20on%20Twitter%20%28Update%20this%20link%21%29%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DTwitter%26logo%3Dtwitter%26label%3D%26color%3D1DA1F2%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge%22%20height%3D%2225%22%20alt%3D%22Twitter%20logo%22%20class%3D%22connect-badge%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fdiscordapp.com%2Fusers%2Fyour-discord-id%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Chat%20on%20Discord%20%28Update%20this%20link%21%29%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DDiscord%26logo%3Ddiscord%26label%3D%26color%3D7289DA%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge%22%20height%3D%2225%22%20alt%3D%22Discord%20logo%22%20class%3D%22connect-badge%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fwww.twitch.tv%2Fyour-twitch-channel%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Watch%20me%20on%20Twitch%20%28Update%20this%20link%21%29%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3DTwitch%26logo%3Dtwitch%26label%3D%26color%3D9146FF%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge%22%20height%3D%2225%22%20alt%3D%22Twitch%20logo%22%20class%3D%22connect-badge%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fdev.to%2Fyour-devto-username%22%20target%3D%22_blank%22%20rel%3D%22noopener%20noreferrer%22%20title%3D%22Read%20my%20articles%20on%20dev.to%20%28Update%20this%20link%21%29%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fmessage%3Ddev.to%26logo%3Ddev.to%26label%3D%26color%3D0A0A0A%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge%22%20height%3D%2225%22%20alt%3D%22dev.to%20logo%22%20class%3D%22connect-badge%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2FforeignObject%3E%0A%3C%2Fsvg%3E%0A" alt="Connect Badges" />
 
 <p align="center">
-  I\'m always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don\'t hesitate to reach out!
+  I'm always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don't hesitate to reach out!
 </p>
-
-
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZARS0W0&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARS0W0&layout=compact&theme=dracula&hide_border=false&border_radius=5" alt="Top Languages" />
-</div>
-
-
-
+<img src="data:image/svg+xml,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22100%25%22%20height%3D%22150%22%3E%0A%20%20%3CforeignObject%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%0A%20%20%20%20%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22display%3A%20flex%3B%20justify-content%3A%20center%3B%20gap%3A%2020px%3B%20align-items%3A%20center%3B%22%3E%0A%20%20%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20%20%20.stats-img%20%7B%0A%20%20%20%20%20%20%20%20%20%20transition%3A%20transform%200.3s%20ease%3B%0A%20%20%20%20%20%20%20%20%20%20border-radius%3A%208px%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20.stats-img%3Ahover%20%7B%0A%20%20%20%20%20%20%20%20%20%20transform%3A%20scale%281.05%29%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%3C%2Fstyle%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fgithub.com%2FZARS0W0%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DZARS0W0%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D5%26count_private%3Dtrue%22%20alt%3D%22GitHub%20Stats%22%20class%3D%22stats-img%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%20%20%3Ca%20href%3D%22https%3A%2F%2Fgithub.com%2FZARS0W0%22%3E%0A%20%20%20%20%20%20%20%20%3Cimg%20src%3D%22https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%2Ftop-langs%2F%3Fusername%3DZARS0W0%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D5%22%20alt%3D%22Top%20Languages%22%20class%3D%22stats-img%22%20%2F%3E%0A%20%20%20%20%20%20%3C%2Fa%3E%0A%20%20%20%20%3C%2Fdiv%3E%0A%20%20%3C%2FforeignObject%3E%0A%3C%2Fsvg%3E%0A" alt="GitHub Stats" />
 
 <h2 align="center">✨ Latest Activity</h2>
 
@@ -133,17 +62,11 @@
   <i>This section will be dynamically updated with my latest blog posts or GitHub activity using GitHub Actions.</i>
 </p>
 
-
-
-
 <h2 align="center">👀 Visitor Count</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZARS0W0&color=blue" alt="Profile views" />
 </p>
-
-
-
 
 <p align="center">
   <i>Last updated: <img src="https://img.shields.io/badge/Last%20Updated-$(date -u +%Y--%m--%d)-informational" alt="Last Updated" /></i>
