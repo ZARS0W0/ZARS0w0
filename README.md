@@ -5,8 +5,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="700" alt="Glitch Banner" />
+  <img src="[https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21kNDkwNm40Z3k2c3V0ZjFmYXY0dWYzc3djancybmV5bDZpN3VtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w5MSivCJcmHEQ/giphy.gif)" width="700" alt="Glitch Banner" />
 </p>
+
+
 
 ---
 
