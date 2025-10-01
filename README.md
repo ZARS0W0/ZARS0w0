@@ -1,9 +1,13 @@
-<h1 align="center">👋 Hello World! I'm ZARS0W0 🚀</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=430&lines=Hello+World!+I\'m+ZARS0W0!;A+Passionate+Developer;Building+Awesome+Things" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  A passionate and driven developer from 🇧🇪 Belgium.</p>
+  A passionate and driven developer from 🇧🇪 Belgium.
+</p>
 
----
+
+
 
 <h2 align="center">🛠️ My Core Toolkit & Expertise</h2>
 
@@ -45,15 +49,17 @@
   </a>
 </div>
 
----
 
-<h2 align="center">📚 What I'm Currently Exploring & Building</h2>
+
+
+<h2 align="center">📚 What I\'m Currently Exploring & Building</h2>
 
 <p align="center">
-  https://zars.pro/
+  Check out my personal website: <a href="https://zars.pro/">zars.pro</a>
 </p>
 
----
+
+
 
 <h2 align="center">📈 My GitHub Journey</h2>
 
@@ -62,12 +68,13 @@
   <img src="https://github-profile-trophy.vercel.app?username=ZARS0W0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophies"  />
 </div>
 
----
+
+
 
 <h2 align="center">🎮 Gamified Contributions: Pac-Man Style!</h2>
 
 <p align="center">
-  Witness my coding activity come to life with this unique Pac-Man contribution graph! It's dynamic way to visualize my dedication to development.
+  Witness my coding activity come to life with this unique Pac-Man contribution graph! It\'s a dynamic way to visualize my dedication to development.
 </p>
 
 <picture>
@@ -76,9 +83,10 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/pacman-contribution-graph.svg">
 </picture>
 
----
 
-<h2 align="center">🌐 Let's Connect & Collaborate!</h2>
+
+
+<h2 align="center">🌐 Let\'s Connect & Collaborate!</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" title="Connect on LinkedIn (Update this link!)">
@@ -99,8 +107,45 @@
 </div>
 
 <p align="center">
-  I'm always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don't hesitate to reach out!
+  I\'m always excited to connect with fellow developers, discuss new technologies, and explore potential collaborations. Don\'t hesitate to reach out!
 </p>
 
 
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZARS0W0&show_icons=true&theme=dracula&hide_border=false&border_radius=5&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARS0W0&layout=compact&theme=dracula&hide_border=false&border_radius=5" alt="Top Languages" />
+</div>
+
+
+
+
+<h2 align="center">✨ Latest Activity</h2>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <i>This section will be dynamically updated with my latest blog posts or GitHub activity using GitHub Actions.</i>
+</p>
+
+
+
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZARS0W0&color=blue" alt="Profile views" />
+</p>
+
+
+
+
+<p align="center">
+  <i>Last updated: <img src="https://img.shields.io/badge/Last%20Updated-$(date -u +%Y--%m--%d)-informational" alt="Last Updated" /></i>
+</p>
 
