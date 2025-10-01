@@ -1,3 +1,5 @@
+<!-- 🚀 ZARS0W0 README: ULTRA EDITION -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FF00FF&center=true&vCenter=true&width=720&lines=⚡+Welcome+to+the+Code+Matrix;👾+ZARS0W0+-+Fullstack+Dreamer;🚀+Building+Future+Technologies;✨+Turning+Ideas+into+Magic" alt="Typing SVG" />
 </h1>
@@ -9,13 +11,19 @@
 ---
 
 <h2 align="center">🛠️ Toolkit Power Level</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,tailwind,php,react,sqlite,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,html,css,tailwind,php,react,sqlite,mysql&perline=6&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="Coding Hacker" />
 </p>
 
 ---
 
 <h2 align="center">📈 Stats & Achievements</h2>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ZARS0W0&theme=highcontrast&hide_border=true" height="150" />
   <img src="https://github-profile-trophy.vercel.app/?username=ZARS0W0&theme=onestar&no-frame=true&row=1&column=6" height="120" />
@@ -25,38 +33,90 @@
 
 <h2 align="center">🎮 Contribution Arcade</h2>
 
-<!-- Snake -->
+<!-- Snake Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github.com/ZARS0W0/ZARS0W0/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-<!-- Pac-Man -->
+<!-- Pac-Man Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/pacman-contribution-graph.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/github-contribution-grid-snake.svg" alt="Pac-Man Graph" />
 </p>
 
 ---
 
 <h2 align="center">🌆 3D Skyline of Code</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/main/output/profile-night-rainbow.svg" alt="3D Skyline Contributions" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ZARS0W0&theme=react-dark&area=true&hide_border=true" alt="3D Skyline Contributions" width="800" />
 </p>
 
 ---
 
-<h2 align="center">👀 Visitor Count</h2>
+<h2 align="center">💻 Terminal Loading Skills</h2>
+
+<pre align="center">
+> Initializing developer.exe ...
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Loaded
+> Python | C++ | React | SQL | Tailwind | PHP
+> Systems Online... Welcome ZARS0W0 ⚡
+</pre>
+
+---
+
+<h2 align="center">🎶 Now Playing</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZARS0W0&style=flat-square&color=brightgreen" alt="Profile views" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id" alt="Spotify Now Playing" width="400" />
 </p>
 
 ---
 
-<p align="center">⚡ Auto-generated visuals update daily ⚡</p>
+<h2 align="center">😂 Daily Meme Generator</h2>
+
+<p align="center">
+  <img src="https://api.memegen.link/images/fry/shut_up_and_take/my_code.png" width="400" alt="Random Meme"/>
+</p>
+
+---
+
+<h2 align="center">✨ Random Vibes</h2>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Random Joke" />
+</p>
+
+<p align="center">
+  <img src="https://api.quotable.io/random" alt="Random Quote" width="400" />
+</p>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <!-- Replace with your actual social media links -->
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/yourdiscord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">👀 Visitor Counter</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZARS0W0&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+</p>
+
+<p align="center"> 
+  <img src="https://count.getloli.com/get/@ZARS0W0?theme=gelbooru" alt="Visitor Counter" />
+</p>
+
+<p align="center">⚡ This README updates itself daily ⚡</p>
