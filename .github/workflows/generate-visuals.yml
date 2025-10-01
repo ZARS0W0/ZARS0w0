@@ -1,0 +1,68 @@
+name: Generate profile visuals
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily at 00:00 UTC (change if you prefer)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo (with write)
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate Snake (SVG only)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Pac-Man contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Generate 3D Skyline (profile 3d contributions)
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect generated files into output/
+        run: |
+          set -e
+          mkdir -p output
+
+          # move standard 'dist' outputs (Platane snk and others)
+          if [ -d dist ]; then
+            mv -f dist/* output/ || true
+          fi
+
+          # the 3D action tends to create profile-3d-contrib/* files
+          if [ -d profile-3d-contrib ]; then
+            mv -f profile-3d-contrib/* output/ || true
+          fi
+
+          # move any remaining likely filenames (safe guards)
+          for f in github-contribution-grid-snake*.svg pacman*contribution*svg profile-*; do
+            [ -f "$f" ] && mv -f "$f" output/ || true
+          done
+
+          ls -la output || true
+
+      - name: Commit & push generated assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output || true
+          git commit -m "chore(readme): update generated visuals" || echo "No changes to commit"
+          git push || echo "Push failed (maybe no changes)"
