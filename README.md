@@ -48,7 +48,7 @@
 <h2 align="center">🌆 3D Skyline of Code</h2>
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-3d-contrib/blob/master/profile-night-green.svg" alt="3D Skyline Contributions" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Skyline Contributions" />
 </p>
 
 ---
