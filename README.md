@@ -35,25 +35,13 @@
 
 <h2 align="center">🎮 Contribution Arcade</h2>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
 
 <!-- Pac-Man Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ZARS0W0/ZARS0W0/output/pacman-contribution-graph.svg" alt="Pac-Man Graph" />
 </p>
 
----
-
-<h2 align="center">🌆 3D Skyline of Code</h2>
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Skyline Contributions" />
-</p>
-
----
 
 <h2 align="center">💻 Terminal Loading Skills</h2>
 
