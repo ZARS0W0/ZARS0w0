@@ -47,10 +47,10 @@
 <table align="center" border="0">
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZARS0W0&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=C084FC&icon_color=7B2FFE&border_color=2d1b69&ring_color=7B2FFE&hide_border=false&count_private=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZARS0W0&show_icons=true&bg_color=0D1117&title_color=A855F7&text_color=C084FC&icon_color=7B2FFE&border_color=2d1b69&ring_color=7B2FFE&hide_border=false&include_all_commits=true" height="165"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZARS0W0&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=C084FC&border_color=2d1b69&hide_border=false&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZARS0W0&layout=compact&bg_color=0D1117&title_color=A855F7&text_color=C084FC&border_color=2d1b69&hide_border=false&langs_count=8" height="165"/>
 </td>
 </tr>
 </table>
